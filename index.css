@@ -2,7 +2,7 @@
 body { background: #fcf8f5; color: #333; line-height: 1.5; }
 
 header { display: flex; justify-content: space-between; align-items: center; padding: 15px 30px; background: #3e2723; color: #fff; }
-header nav a { color: #fff; text-decoration: none; margin-left: 15px; }
+header nav a { color: #571504; text-decoration: none; margin-left: 15px; }
 
 .hero { display: flex; align-items: center; justify-content: space-between; padding: 40px 30px; background: #efebe9; gap: 20px; }
 .hero img { width: 100%; max-width: 300px; border-radius: 8px; }
